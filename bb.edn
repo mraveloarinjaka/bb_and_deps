@@ -1,1 +1,1 @@
-{:deps {local/deps {:local/root "."}}}
+{:deps {space.mrave.sandbox/bb-and-deps {:local/root "."}}}
